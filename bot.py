@@ -25,8 +25,8 @@ async def start(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('📣 Channel', 'https://t.me/The_SHIKARI_Network'),
-        Button.url('📦 Source', 'https://github.com/ShikariBaaZ/MentionAll_Bot')
+        Button.url('📣 Channel', 'https://t.me/Mahi_Nabi'),
+        Button.url('📦 Source', 'https://github.com/Mahinabi/MentionAll_Bot')
       ]
     )
   )
@@ -39,8 +39,8 @@ async def help(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('📣 Channel', 'https://t.me/The_SHIKARI_Network'),
-        Button.url('📦 Source', 'https://github.com/ShikariBaaZ/MentionAll_Bot')
+        Button.url('📣 Channel', 'https://t.me/Mahi_Nabi'),
+        Button.url('📦 Source', 'https://github.com/Mahinabi/MentionAll_Bot')
       ]
     )
   )

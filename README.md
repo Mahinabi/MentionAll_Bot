@@ -1,11 +1,11 @@
 <h1 align="center"><b><b>MentionAll_Bot</b></b></h1>
 _**Mention All Bot will help you to Mention Group Members upto 10,000 in GROUPS and can Mention Members upto 200 in CHANNELS !**_
 
-<p align="center"><a href="https://t.me/ShikariSupportNetwork"><img src="https://telegra.ph/file/5659bd87170bdcbe5ee44.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/Mahi_Nabi"><img src="https://te.legra.ph/file/fdba1d77ddc97568dd272.jpg" width="400"></a></p>
 
-Join Here💖 [@ShikariSupportNetwork](https://t.me/ShikariSupportNetwork)!
+Join Here💖 [@ShikariSupportNetwork](https://t.me/Mahi_Nabi)!
     
-Fork and Follow my Github [ShikariBaaZ](https://github.com/ShikariBaaZ)
+Fork and Follow my Github [ShikariBaaZ](https://github.com/Mahinabi)
 
 ## How To Host
 Heroku is the easiest way to deploy this Bot
@@ -27,7 +27,7 @@ Heroku is the easiest way to deploy this Bot
 - [-] `BOT_TOKEN` : Get from Botfarther
 
 ### Special Credits 💖
-- [SAM](LAWLESS OWNER): Dev
-- [❤️CHIKU❤️] : Dev
+- [SAM](Cᴜᴛᴇ Kɪɴɢ): Dev
+- [❤️KING❤️] : Dev
 - [SAMIE] : Dev
-- [SHIKARI](https://github.com/ShikariBaaZ): Dev
+- [SHIKARI](https://github.com/Mahinabi): Dev
